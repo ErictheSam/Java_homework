@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb5e4553-56ca-49e2-adb5-648eba5cfdc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../XtxNews (1)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XtxNews/app/src/main/java/com/java/xtxnews/GetNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XtxSybNews/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XtxSybNews/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/BlockActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/ChannelActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/CircleImageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/EditTextClear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/Fragment_account_init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/Fragment_account_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/Fragment_favorites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/Fragment_news_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/ICallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/MulRecyclerViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/MyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/MyGridView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/NewsPhotoBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/RecordSQLiteOpenHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/SearchActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/SearchListView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/SearchView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/TextViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/bCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/button_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_account_box_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_close_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_delete_forever_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_folder_special_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_playlist_add_check_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_search_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_settings_brightness_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_share_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_star_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/input_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/item_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_channel_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_text_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/fragment_account_init.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/fragment_account_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/fragment_favorites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/fragment_news_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/news_item_layout1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/news_item_layout2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/search_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/menu/favorites_top_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/menu/text_view_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/java/naive/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/androidTest/java/com/java/naive/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/java/com/java/naive/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/test/java/com/java/naive/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/test/java/com/java/naive/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="102" />
+    <option name="y" value="27" />
+    <option name="width" value="929" />
+    <option name="height" value="528" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="RealLastNews" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RealLastNews" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb5e4553-56ca-49e2-adb5-648eba5cfdc8" name="Default Changelist" comment="" />
+      <created>1567938563623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567938563623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3299373" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
